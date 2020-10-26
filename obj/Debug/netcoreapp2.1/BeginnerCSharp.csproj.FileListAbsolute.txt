@@ -1,0 +1,11 @@
+D:\Projects\Learning\BeginnerCSharp\bin\Debug\netcoreapp2.1\BeginnerCSharp.deps.json
+D:\Projects\Learning\BeginnerCSharp\bin\Debug\netcoreapp2.1\BeginnerCSharp.runtimeconfig.json
+D:\Projects\Learning\BeginnerCSharp\bin\Debug\netcoreapp2.1\BeginnerCSharp.runtimeconfig.dev.json
+D:\Projects\Learning\BeginnerCSharp\bin\Debug\netcoreapp2.1\BeginnerCSharp.dll
+D:\Projects\Learning\BeginnerCSharp\bin\Debug\netcoreapp2.1\BeginnerCSharp.pdb
+D:\Projects\Learning\BeginnerCSharp\obj\Debug\netcoreapp2.1\BeginnerCSharp.csprojAssemblyReference.cache
+D:\Projects\Learning\BeginnerCSharp\obj\Debug\netcoreapp2.1\BeginnerCSharp.csproj.CoreCompileInputs.cache
+D:\Projects\Learning\BeginnerCSharp\obj\Debug\netcoreapp2.1\BeginnerCSharp.AssemblyInfoInputs.cache
+D:\Projects\Learning\BeginnerCSharp\obj\Debug\netcoreapp2.1\BeginnerCSharp.AssemblyInfo.cs
+D:\Projects\Learning\BeginnerCSharp\obj\Debug\netcoreapp2.1\BeginnerCSharp.dll
+D:\Projects\Learning\BeginnerCSharp\obj\Debug\netcoreapp2.1\BeginnerCSharp.pdb
